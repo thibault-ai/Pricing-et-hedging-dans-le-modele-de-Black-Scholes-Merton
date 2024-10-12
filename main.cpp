@@ -12,10 +12,9 @@ int main() {
   Black_Scholes BS(100,0.1,0.05,0); //constructeur par paramètre BS
   cout<<"_____Projet réalisé par__________"<<endl;
   cout<<" "<<endl;
-  cout<<"_____FOTSING MAKOU Claudine______"<<endl;
-  cout<<"-----SALHI Rim___________________"<<endl;
-  cout<<"-----TATOU DEKOU Thibault________"<<endl;
+  cout<<"_____TATOU DEKOU Thibault________"<<endl;
   cout<<" "<<endl;
+  
   cout<<"********----***************** Pricing d'option ***************-----******"<<endl;
   cout<<"   "<<endl;
   cout<<"        ---------------------- Bienvenue au MENU --------------------    "<<endl;
